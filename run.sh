@@ -24,7 +24,7 @@ make
 
 # Bináris futtatása metrikus módban
 if [[ -f GPSProcessor ]]; then
-    ./GPSProcessor ../input.json ../output.json --metric
+    ./GPSProcessor ../input.json ../output.json --imperial
 else
     echo "❌ A program fordítása nem sikerült. Nincs GPSProcessor bináris."
     exit 2

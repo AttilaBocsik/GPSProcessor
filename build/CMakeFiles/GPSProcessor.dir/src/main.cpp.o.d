@@ -1,5 +1,5 @@
 CMakeFiles/GPSProcessor.dir/src/main.cpp.o: \
- /home/bocsik-attila/CLionProjects/gps_processor/src/main.cpp \
+ /home/bocsik-attila/CLionProjects/GPSProcessor/src/main.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/13/iostream \
  /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
@@ -289,7 +289,7 @@ CMakeFiles/GPSProcessor.dir/src/main.cpp.o: \
  /usr/include/nlohmann/ordered_map.hpp /usr/include/c++/13/any \
  /usr/include/nlohmann/detail/macro_unscope.hpp \
  /usr/include/nlohmann/thirdparty/hedley/hedley_undef.hpp \
- /home/bocsik-attila/CLionProjects/gps_processor/include/IUnitConverter.h \
- /home/bocsik-attila/CLionProjects/gps_processor/include/MetricConverter.h \
- /home/bocsik-attila/CLionProjects/gps_processor/include/IUnitConverter.h \
- /home/bocsik-attila/CLionProjects/gps_processor/include/ImperialConverter.h
+ /home/bocsik-attila/CLionProjects/GPSProcessor/include/IUnitConverter.h \
+ /home/bocsik-attila/CLionProjects/GPSProcessor/include/MetricConverter.h \
+ /home/bocsik-attila/CLionProjects/GPSProcessor/include/IUnitConverter.h \
+ /home/bocsik-attila/CLionProjects/GPSProcessor/include/ImperialConverter.h

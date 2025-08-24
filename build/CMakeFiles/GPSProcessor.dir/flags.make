@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/bocsik-attila/CLionProjects/gps_processor/include
+CXX_INCLUDES = -I/home/bocsik-attila/CLionProjects/GPSProcessor/include
 
 CXX_FLAGS = -std=gnu++17
 

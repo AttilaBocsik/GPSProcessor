@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/bocsik-attila/CLionProjects/gps_processor
+CMAKE_SOURCE_DIR = /home/bocsik-attila/CLionProjects/GPSProcessor
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/bocsik-attila/CLionProjects/gps_processor/build
+CMAKE_BINARY_DIR = /home/bocsik-attila/CLionProjects/GPSProcessor/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/GPSProcessor.dir/depend.make
@@ -70,46 +70,46 @@ include CMakeFiles/GPSProcessor.dir/progress.make
 include CMakeFiles/GPSProcessor.dir/flags.make
 
 CMakeFiles/GPSProcessor.dir/src/main.cpp.o: CMakeFiles/GPSProcessor.dir/flags.make
-CMakeFiles/GPSProcessor.dir/src/main.cpp.o: /home/bocsik-attila/CLionProjects/gps_processor/src/main.cpp
+CMakeFiles/GPSProcessor.dir/src/main.cpp.o: /home/bocsik-attila/CLionProjects/GPSProcessor/src/main.cpp
 CMakeFiles/GPSProcessor.dir/src/main.cpp.o: CMakeFiles/GPSProcessor.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/bocsik-attila/CLionProjects/gps_processor/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/GPSProcessor.dir/src/main.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/GPSProcessor.dir/src/main.cpp.o -MF CMakeFiles/GPSProcessor.dir/src/main.cpp.o.d -o CMakeFiles/GPSProcessor.dir/src/main.cpp.o -c /home/bocsik-attila/CLionProjects/gps_processor/src/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/bocsik-attila/CLionProjects/GPSProcessor/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/GPSProcessor.dir/src/main.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/GPSProcessor.dir/src/main.cpp.o -MF CMakeFiles/GPSProcessor.dir/src/main.cpp.o.d -o CMakeFiles/GPSProcessor.dir/src/main.cpp.o -c /home/bocsik-attila/CLionProjects/GPSProcessor/src/main.cpp
 
 CMakeFiles/GPSProcessor.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/GPSProcessor.dir/src/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/bocsik-attila/CLionProjects/gps_processor/src/main.cpp > CMakeFiles/GPSProcessor.dir/src/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/bocsik-attila/CLionProjects/GPSProcessor/src/main.cpp > CMakeFiles/GPSProcessor.dir/src/main.cpp.i
 
 CMakeFiles/GPSProcessor.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/GPSProcessor.dir/src/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/bocsik-attila/CLionProjects/gps_processor/src/main.cpp -o CMakeFiles/GPSProcessor.dir/src/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/bocsik-attila/CLionProjects/GPSProcessor/src/main.cpp -o CMakeFiles/GPSProcessor.dir/src/main.cpp.s
 
 CMakeFiles/GPSProcessor.dir/src/MetricConverter.cpp.o: CMakeFiles/GPSProcessor.dir/flags.make
-CMakeFiles/GPSProcessor.dir/src/MetricConverter.cpp.o: /home/bocsik-attila/CLionProjects/gps_processor/src/MetricConverter.cpp
+CMakeFiles/GPSProcessor.dir/src/MetricConverter.cpp.o: /home/bocsik-attila/CLionProjects/GPSProcessor/src/MetricConverter.cpp
 CMakeFiles/GPSProcessor.dir/src/MetricConverter.cpp.o: CMakeFiles/GPSProcessor.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/bocsik-attila/CLionProjects/gps_processor/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/GPSProcessor.dir/src/MetricConverter.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/GPSProcessor.dir/src/MetricConverter.cpp.o -MF CMakeFiles/GPSProcessor.dir/src/MetricConverter.cpp.o.d -o CMakeFiles/GPSProcessor.dir/src/MetricConverter.cpp.o -c /home/bocsik-attila/CLionProjects/gps_processor/src/MetricConverter.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/bocsik-attila/CLionProjects/GPSProcessor/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/GPSProcessor.dir/src/MetricConverter.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/GPSProcessor.dir/src/MetricConverter.cpp.o -MF CMakeFiles/GPSProcessor.dir/src/MetricConverter.cpp.o.d -o CMakeFiles/GPSProcessor.dir/src/MetricConverter.cpp.o -c /home/bocsik-attila/CLionProjects/GPSProcessor/src/MetricConverter.cpp
 
 CMakeFiles/GPSProcessor.dir/src/MetricConverter.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/GPSProcessor.dir/src/MetricConverter.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/bocsik-attila/CLionProjects/gps_processor/src/MetricConverter.cpp > CMakeFiles/GPSProcessor.dir/src/MetricConverter.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/bocsik-attila/CLionProjects/GPSProcessor/src/MetricConverter.cpp > CMakeFiles/GPSProcessor.dir/src/MetricConverter.cpp.i
 
 CMakeFiles/GPSProcessor.dir/src/MetricConverter.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/GPSProcessor.dir/src/MetricConverter.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/bocsik-attila/CLionProjects/gps_processor/src/MetricConverter.cpp -o CMakeFiles/GPSProcessor.dir/src/MetricConverter.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/bocsik-attila/CLionProjects/GPSProcessor/src/MetricConverter.cpp -o CMakeFiles/GPSProcessor.dir/src/MetricConverter.cpp.s
 
 CMakeFiles/GPSProcessor.dir/src/ImperialConverter.cpp.o: CMakeFiles/GPSProcessor.dir/flags.make
-CMakeFiles/GPSProcessor.dir/src/ImperialConverter.cpp.o: /home/bocsik-attila/CLionProjects/gps_processor/src/ImperialConverter.cpp
+CMakeFiles/GPSProcessor.dir/src/ImperialConverter.cpp.o: /home/bocsik-attila/CLionProjects/GPSProcessor/src/ImperialConverter.cpp
 CMakeFiles/GPSProcessor.dir/src/ImperialConverter.cpp.o: CMakeFiles/GPSProcessor.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/bocsik-attila/CLionProjects/gps_processor/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/GPSProcessor.dir/src/ImperialConverter.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/GPSProcessor.dir/src/ImperialConverter.cpp.o -MF CMakeFiles/GPSProcessor.dir/src/ImperialConverter.cpp.o.d -o CMakeFiles/GPSProcessor.dir/src/ImperialConverter.cpp.o -c /home/bocsik-attila/CLionProjects/gps_processor/src/ImperialConverter.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/bocsik-attila/CLionProjects/GPSProcessor/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/GPSProcessor.dir/src/ImperialConverter.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/GPSProcessor.dir/src/ImperialConverter.cpp.o -MF CMakeFiles/GPSProcessor.dir/src/ImperialConverter.cpp.o.d -o CMakeFiles/GPSProcessor.dir/src/ImperialConverter.cpp.o -c /home/bocsik-attila/CLionProjects/GPSProcessor/src/ImperialConverter.cpp
 
 CMakeFiles/GPSProcessor.dir/src/ImperialConverter.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/GPSProcessor.dir/src/ImperialConverter.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/bocsik-attila/CLionProjects/gps_processor/src/ImperialConverter.cpp > CMakeFiles/GPSProcessor.dir/src/ImperialConverter.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/bocsik-attila/CLionProjects/GPSProcessor/src/ImperialConverter.cpp > CMakeFiles/GPSProcessor.dir/src/ImperialConverter.cpp.i
 
 CMakeFiles/GPSProcessor.dir/src/ImperialConverter.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/GPSProcessor.dir/src/ImperialConverter.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/bocsik-attila/CLionProjects/gps_processor/src/ImperialConverter.cpp -o CMakeFiles/GPSProcessor.dir/src/ImperialConverter.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/bocsik-attila/CLionProjects/GPSProcessor/src/ImperialConverter.cpp -o CMakeFiles/GPSProcessor.dir/src/ImperialConverter.cpp.s
 
 # Object files for target GPSProcessor
 GPSProcessor_OBJECTS = \
@@ -125,7 +125,7 @@ GPSProcessor: CMakeFiles/GPSProcessor.dir/src/MetricConverter.cpp.o
 GPSProcessor: CMakeFiles/GPSProcessor.dir/src/ImperialConverter.cpp.o
 GPSProcessor: CMakeFiles/GPSProcessor.dir/build.make
 GPSProcessor: CMakeFiles/GPSProcessor.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/bocsik-attila/CLionProjects/gps_processor/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable GPSProcessor"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/bocsik-attila/CLionProjects/GPSProcessor/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable GPSProcessor"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/GPSProcessor.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -137,6 +137,6 @@ CMakeFiles/GPSProcessor.dir/clean:
 .PHONY : CMakeFiles/GPSProcessor.dir/clean
 
 CMakeFiles/GPSProcessor.dir/depend:
-	cd /home/bocsik-attila/CLionProjects/gps_processor/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/bocsik-attila/CLionProjects/gps_processor /home/bocsik-attila/CLionProjects/gps_processor /home/bocsik-attila/CLionProjects/gps_processor/build /home/bocsik-attila/CLionProjects/gps_processor/build /home/bocsik-attila/CLionProjects/gps_processor/build/CMakeFiles/GPSProcessor.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/bocsik-attila/CLionProjects/GPSProcessor/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/bocsik-attila/CLionProjects/GPSProcessor /home/bocsik-attila/CLionProjects/GPSProcessor /home/bocsik-attila/CLionProjects/GPSProcessor/build /home/bocsik-attila/CLionProjects/GPSProcessor/build /home/bocsik-attila/CLionProjects/GPSProcessor/build/CMakeFiles/GPSProcessor.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/GPSProcessor.dir/depend
 

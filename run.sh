@@ -16,6 +16,12 @@ then
     exit 1
 fi
 
+# Régi build törlése, ha létezik
+if [ -d "build" ]; then
+    echo "🧹 Régi build könyvtár törlése..."
+    rm -rf build
+fi
+
 # Build könyvtár létrehozása és fordítás
 mkdir -p build
 cd build

@@ -1,9 +1,9 @@
 CMakeFiles/GPSProcessor.dir/src/ImperialConverter.cpp.o: \
- /home/bocsik-attila/CLionProjects/gps_processor/src/ImperialConverter.cpp \
+ /home/bocsik-attila/CLionProjects/GPSProcessor/src/ImperialConverter.cpp \
  /usr/include/stdc-predef.h \
- /home/bocsik-attila/CLionProjects/gps_processor/include/ImperialConverter.h \
- /home/bocsik-attila/CLionProjects/gps_processor/include/IUnitConverter.h \
- /home/bocsik-attila/CLionProjects/gps_processor/include/MetricConverter.h \
+ /home/bocsik-attila/CLionProjects/GPSProcessor/include/ImperialConverter.h \
+ /home/bocsik-attila/CLionProjects/GPSProcessor/include/IUnitConverter.h \
+ /home/bocsik-attila/CLionProjects/GPSProcessor/include/MetricConverter.h \
  /usr/include/c++/13/cmath /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/os_defines.h \

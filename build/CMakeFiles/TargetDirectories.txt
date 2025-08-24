@@ -1,3 +1,3 @@
-/home/bocsik-attila/CLionProjects/gps_processor/build/CMakeFiles/GPSProcessor.dir
-/home/bocsik-attila/CLionProjects/gps_processor/build/CMakeFiles/edit_cache.dir
-/home/bocsik-attila/CLionProjects/gps_processor/build/CMakeFiles/rebuild_cache.dir
+/home/bocsik-attila/CLionProjects/GPSProcessor/build/CMakeFiles/GPSProcessor.dir
+/home/bocsik-attila/CLionProjects/GPSProcessor/build/CMakeFiles/edit_cache.dir
+/home/bocsik-attila/CLionProjects/GPSProcessor/build/CMakeFiles/rebuild_cache.dir

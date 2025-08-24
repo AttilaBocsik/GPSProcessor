@@ -8,9 +8,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/bocsik-attila/CLionProjects/gps_processor/src/ImperialConverter.cpp" "CMakeFiles/GPSProcessor.dir/src/ImperialConverter.cpp.o" "gcc" "CMakeFiles/GPSProcessor.dir/src/ImperialConverter.cpp.o.d"
-  "/home/bocsik-attila/CLionProjects/gps_processor/src/MetricConverter.cpp" "CMakeFiles/GPSProcessor.dir/src/MetricConverter.cpp.o" "gcc" "CMakeFiles/GPSProcessor.dir/src/MetricConverter.cpp.o.d"
-  "/home/bocsik-attila/CLionProjects/gps_processor/src/main.cpp" "CMakeFiles/GPSProcessor.dir/src/main.cpp.o" "gcc" "CMakeFiles/GPSProcessor.dir/src/main.cpp.o.d"
+  "/home/bocsik-attila/CLionProjects/GPSProcessor/src/ImperialConverter.cpp" "CMakeFiles/GPSProcessor.dir/src/ImperialConverter.cpp.o" "gcc" "CMakeFiles/GPSProcessor.dir/src/ImperialConverter.cpp.o.d"
+  "/home/bocsik-attila/CLionProjects/GPSProcessor/src/MetricConverter.cpp" "CMakeFiles/GPSProcessor.dir/src/MetricConverter.cpp.o" "gcc" "CMakeFiles/GPSProcessor.dir/src/MetricConverter.cpp.o.d"
+  "/home/bocsik-attila/CLionProjects/GPSProcessor/src/main.cpp" "CMakeFiles/GPSProcessor.dir/src/main.cpp.o" "gcc" "CMakeFiles/GPSProcessor.dir/src/main.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

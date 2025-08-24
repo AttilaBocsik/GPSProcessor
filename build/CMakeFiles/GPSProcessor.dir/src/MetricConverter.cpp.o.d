@@ -1,7 +1,7 @@
 CMakeFiles/GPSProcessor.dir/src/MetricConverter.cpp.o: \
- /home/bocsik-attila/CLionProjects/gps_processor/src/MetricConverter.cpp \
+ /home/bocsik-attila/CLionProjects/GPSProcessor/src/MetricConverter.cpp \
  /usr/include/stdc-predef.h \
- /home/bocsik-attila/CLionProjects/gps_processor/include/IUnitConverter.h \
+ /home/bocsik-attila/CLionProjects/GPSProcessor/include/IUnitConverter.h \
  /usr/include/c++/13/cmath /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/os_defines.h \
@@ -86,5 +86,5 @@ CMakeFiles/GPSProcessor.dir/src/MetricConverter.cpp.o: \
  /usr/include/c++/13/tr1/poly_hermite.tcc \
  /usr/include/c++/13/tr1/poly_laguerre.tcc \
  /usr/include/c++/13/tr1/riemann_zeta.tcc \
- /home/bocsik-attila/CLionProjects/gps_processor/include/MetricConverter.h \
- /home/bocsik-attila/CLionProjects/gps_processor/include/IUnitConverter.h
+ /home/bocsik-attila/CLionProjects/GPSProcessor/include/MetricConverter.h \
+ /home/bocsik-attila/CLionProjects/GPSProcessor/include/IUnitConverter.h
